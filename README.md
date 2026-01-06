@@ -14,7 +14,7 @@ I design and ship TypeScript-first AI products and no-code / low-code experience
 - Name: Ofer (blutrich)  
 - Role: CPO @ frndz.ai  
 - Email: [blutrich@gmail.com](mailto:blutrich@gmail.com)  
-- Website: https://oferblutrich.vercel.app/  
+- Website: https://ofer.ai  
 - LinkedIn: https://www.linkedin.com/in/oferblutrich/
 
 ---
