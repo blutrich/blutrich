@@ -1,76 +1,52 @@
-# Hey — I’m Ofer 👋
+# Hey, I'm Ofer
 
-[![Website](https://img.shields.io/badge/website-%230077B5?style=flat&logo=vercel&logoColor=white)](https://oferblutrich.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oferblutrich/)
-[![Follow on GitHub](https://img.shields.io/github/followers/blutrich?label=Follow&style=social)](https://github.com/blutrich)
+AI builder. Climber. Enabler.
 
-AI builder • CPO @ frndz.ai — building TypeScript-first agents & no-code platforms (mastra.ai). Open to job offers.
+I build AI agents and tools that make teams move faster. Currently at **Base44** (Wix), where I built a 9-agent marketing automation system, 25+ Claude Code skills, and an AI enablement practice that serves 50+ team members.
 
----
+I'm part of what I call **the new technical class**. I'm not a traditional programmer. I build with AI agents, ship production systems, and help non-developers build things they never thought they could.
 
-## About me
-I design and ship TypeScript-first AI products and no-code / low-code experiences that let teams move fast without sacrificing reliability.
+## What I'm building now
 
-- Name: Ofer (blutrich)  
-- Role: CPO @ frndz.ai  
-- Email: [blutrich@gmail.com](mailto:blutrich@gmail.com)  
-- Website: https://ofer.ai  
-- LinkedIn: https://www.linkedin.com/in/oferblutrich/
+**At Base44/Wix:**
+- [base44-marketing-agent](https://github.com/blutrich/base44-marketing-agent) - 9 AI agents for marketing content orchestration. Brand-aware, multi-channel, with evolving memory.
+- [ai-business-builder-agents](https://github.com/blutrich/ai-business-builder-agents) - 8 agents, 5-phase framework for building AI businesses from zero to scale.
+- [marketing-ideas-skill](https://github.com/blutrich/marketing-ideas-skill) - 77 proven marketing tactics as a Claude Code skill.
+- [founder-coach](https://github.com/blutrich/founder-coach) - Daily AI coaching system for founders. Streak tracking, decision log, compounding memory.
 
----
+**Personal / Climbing:**
+- [ClimbProgramGEN](https://github.com/blutrich/general-fitness-GA) - Genetic algorithm for climbing training plans. TypeScript CLI, real athlete tested.
+- [ClimbClaw](https://github.com/blutrich/claude-code) - WhatsApp climbing coach with proactive scheduling, health monitoring, and athlete memory. 200+ commits.
+- [nanobananaMCP](https://github.com/blutrich/nanobananaMCP) - MCP server for AI image generation with brand compositing.
+- [basewisper](https://github.com/blutrich/basewisper) - Speech-to-text with hotkey recording.
 
-## What I build
-I focus on three complementary areas:
+## Previous work
 
-- AI builders & agents — production-ready agent frameworks and integrations (TypeScript-first)  
-- No-code / low-code platforms — tooling that empowers non-developers (mastra.ai)  
-- Developer experience — reusable libraries, templates, and infra to ship reliably
+Before Base44, I built products across fitness, social, and AI:
 
----
+- [PillAgent](https://github.com/blutrich/PillAgent) - TypeScript agent for automations and integrations.
+- [agentV2](https://github.com/blutrich/agentV2) - Next-gen agent framework for reliable workflows.
+- [arboxagent](https://github.com/blutrich/arboxagent) - Domain-specific agent integrations and backend tooling.
+- [frndz-app](https://github.com/frndzv2) - Social platform (CPO role).
+- [podlearn](https://github.com/blutrich/podlearn) - Podcast learning tool.
+- [InterviewOST](https://github.com/blutrich/InterviewOST) - Discovery copilot with opportunity solution trees.
 
-## Tech & tools
-TypeScript · Node.js · React / Next.js · PostgreSQL · PL/pgSQL · Docker · GitHub Actions · Serverless
+## The climbing thing
 
----
+I'm one of Israel's top rock climbers. 100+ first ascents. I bolted routes nobody could see, opened them for hundreds of people. That pattern carries into everything I build: go first so others can follow.
 
-## Featured projects
-Click to explore the code and demos:
-
-- [PillAgent](https://github.com/blutrich/PillAgent) — TypeScript-first agent for automations & integrations.  
-- [agentV2](https://github.com/blutrich/agentV2) — Next-gen agent framework for reliable workflows.  
-- [arboxagent](https://github.com/blutrich/arboxagent) — Domain-specific agent integrations & backend tooling.  
-- [app-mastra (mastra.ai)](https://github.com/frndz-ai/app-mastra) — Low-code/no-code platform components.  
-- [frndz-app](https://github.com/frndz-ai/frndz-app) — Core frndz.ai application, focusing on UX & integrations.  
-- [podlearn](https://github.com/blutrich/podlearn) — Learning & podcast tooling demonstrating infra and TS-backend patterns.
-
----
+Climbing projects: training plan generators, WhatsApp coaching bots, community platforms, physio AI tools. If it involves climbing and code, I've probably built it.
 
 ## How I work
-- Product-first: ship simple, testable increments that deliver user value.  
-- TypeScript everywhere: consistent types across frontend, backend, and infra.  
-- Empower non-devs: craft low-code experiences so teams can build without heavy engineering overhead.
 
----
+- Ship first, polish later
+- AI agents for everything (marketing, coaching, content, training plans)
+- Claude Code as my primary development environment
+- 25+ production skills, 9 agent systems, MCP servers
+- TypeScript, Python, React, Next.js, Node.js, PostgreSQL
 
-## Quick links & badges
-- GitHub stats: [Ofer's GitHub stats](https://github.com/blutrich)  
-- Top languages: [Top Langs](https://github.com/blutrich)
+## Get in touch
 
----
-
-## Collaborate / Hire
-If you're interested in collaborating, hiring, or exploring Mastra.ai, email me at [blutrich@gmail.com](mailto:blutrich@gmail.com) or message me on LinkedIn.
-
----
-
-## Contributing
-This profile highlights my public projects; feel free to open issues or PRs in any repo. For contributions to any specific project, check that repo’s CONTRIBUTING.md or open an issue to discuss changes first.
-
----
-
-## License
-This repository (profile) and its content are shared under the terms of the repository license (see LICENSE file in the repo).
-
----
-
-_Last updated: 2025-12-15_
+- LinkedIn: [oferblutrich](https://www.linkedin.com/in/oferblutrich/)
+- Email: blutrich@gmail.com
+- Website: [ofer.ai](https://ofer.ai)
